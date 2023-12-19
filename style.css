@@ -8,8 +8,16 @@ body{
     font-family: 'Poppins' !important;
     font-size: 18px;
 }
-.mt-100{
-    margin-top: 60px;
+.mt-10{
+    margin-top: 10px;
+}
+.asib {
+	text-align: right;
+	color: #00fa92;
+	font-family: cursive;
+	opacity: .3;
+	margin-top: 50px;
+	margin-right: 50px;
 }
 h4 {
 	margin-bottom: 0;
